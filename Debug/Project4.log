@@ -1,0 +1,6 @@
+﻿  driver.cpp
+C:\Users\ayaal\source\repos\Project4\Project4\driver.cpp(89,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ayaal\source\repos\Project4\Project4\driver.cpp(99,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  jqueue.cpp
+  Generating Code...
+  Project4.vcxproj -> C:\Users\ayaal\source\repos\Project4\Debug\Project4.exe
